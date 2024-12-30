@@ -63,16 +63,16 @@ _Use o [MT Manager](https://www.mediafire.com/file/y09xgucgygmt1ny/MT_Manager_2.
 exports.PREFIX = "/";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "🤖";
+exports.BOT_EMOJI = "🫦";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Takeshi Bot";
+exports.BOT_NAME = "𝕞𝕒𝕜𝕚𝕞𝕒";
 
 // Número do bot. Coloque o número do bot (apenas números).
-exports.BOT_NUMBER = "5511920202020";
+exports.BOT_NUMBER = "5511948801219";
 
 // Número do dono do bot. Coloque o número do dono do bot (apenas números).
-exports.OWNER_NUMBER = "5511999999999";
+exports.OWNER_NUMBER = "5511969771750";
 ```
 6 - Salve o que você acabou de configurar.
 
